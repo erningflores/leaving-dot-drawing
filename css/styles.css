@@ -1,0 +1,11 @@
+body{
+    height: 200px;
+    background: beige;
+}
+
+.dot_div{
+    height: 8px;
+    width: 8px;
+    background: teal;
+    position: absolute;
+}
